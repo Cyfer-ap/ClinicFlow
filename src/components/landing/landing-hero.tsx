@@ -15,7 +15,8 @@ export function LandingHero() {
         </h1>
 
         <p className="mx-auto mt-4 max-w-2xl text-pretty text-base text-slate-300 sm:text-lg">
-          A smart queue, token, appointment, and follow-up management system tailored for modern clinics.
+          A smart queue, token, appointment, and follow-up management system tailored for modern
+          clinics.
         </p>
 
         <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
@@ -36,4 +37,3 @@ export function LandingHero() {
     </main>
   );
 }
-
